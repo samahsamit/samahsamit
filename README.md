@@ -1,14 +1,12 @@
-### Ciao, sono Samah 👋
+# 💫 Chi sono
+👋 Ciao! Sono Samah Samit<br>🎓 Studio Innovazione Sociale, Comunicazione e Nuove Tecnologie (ICT) all'Università di Torino e mi laureo a marzo 2027.<br>🎨 Mi occupo di UX/UI: faccio ricerca con gli utenti, disegno interfacce e design system in Figma e controllo i dati con SQL ed Excel.<br>🔭 Cerco un tirocinio o un primo lavoro in UX/UI, marketing digitale o frontend, anche part-time o ibrido.<br>🌱 Sto approfondendo i test di usabilità, l'analisi dei dati e il frontend con HTML, CSS e JavaScript.<br>🗣️ Parlo italiano, arabo e inglese (C1).
 
-Studio Innovazione Sociale, Comunicazione e Nuove Tecnologie all'Università di Torino e mi laureo a marzo 2027. Mi occupo di UX/UI: intervisto le persone, disegno le schermate in Figma e controllo i numeri con SQL ed Excel.
+# 💻 Strumenti
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![Weka](https://img.shields.io/badge/Weka-%235C2D91.svg?style=for-the-badge&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-Sto cercando un tirocinio o un primo lavoro in UX/UI, marketing digitale o frontend.
+# 📝 Progetti universitari
+ - [LearNow](https://samahsamit.github.io/lavori/learnow/): app di corsi per artigiani e creativi. Ricerca utente, design system e prototipo hi-fi in Figma ([repo](https://github.com/samahsamit/learnow-interaction-design))
+ - [Studio dentistico](https://samahsamit.github.io/lavori/studio-dentistico/): perché i pazienti saltano gli appuntamenti. MySQL, data warehouse, OLAP e data mining con Weka ([repo](https://github.com/samahsamit/studio-dentistico-data-mining))
 
-**Lavori**
-
-- [LearNow](https://samahsamit.github.io/lavori/learnow/): un'app di corsi per artigiani e creativi. Ricerca, design system e prototipo in Figma.
-- [Studio dentistico](https://samahsamit.github.io/lavori/studio-dentistico/): perché i pazienti saltano gli appuntamenti. MySQL, data warehouse e Weka.
-
-**Strumenti:** Figma · MySQL · Excel · Weka · Canva · HTML/CSS · JavaScript · Python · Git
-
-[Portfolio](https://samahsamit.github.io) · [LinkedIn](https://www.linkedin.com/in/samah-samit) · [Email](mailto:samahsamitt@gmail.com)
+# 🌐 Social
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=githubpages&logoColor=white)](https://samahsamit.github.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samah-samit) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samahsamitt@gmail.com)
